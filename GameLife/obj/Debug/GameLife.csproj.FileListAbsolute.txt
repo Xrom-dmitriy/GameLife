@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\bin\Debug\GameLife.exe.config
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\bin\Debug\GameLife.exe
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\bin\Debug\GameLife.pdb
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.Form1.resources
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.exe
+C:\Users\Дмитрий\source\repos\GameLife\GameLife\obj\Debug\GameLife.pdb
